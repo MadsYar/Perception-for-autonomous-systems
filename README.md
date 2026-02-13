@@ -235,7 +235,7 @@ This course covers fundamental concepts in computer vision and perception techni
 
 ---
 
-### **dvanced Perception Tasks**
+### **Advanced Perception Tasks**
 **Topics:** Multi-view Geometry, Pose Estimation, Advanced Image Processing
 
 **Exercises:**
